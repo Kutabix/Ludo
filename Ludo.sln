@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ludo", "Ludo\Ludo.vcxproj", "{77409DE2-52FB-4511-B9C6-6E894C998439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Debug|x64.ActiveCfg = Debug|x64
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Debug|x64.Build.0 = Debug|x64
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Debug|x86.ActiveCfg = Debug|Win32
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Debug|x86.Build.0 = Debug|Win32
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Release|x64.ActiveCfg = Release|x64
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Release|x64.Build.0 = Release|x64
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Release|x86.ActiveCfg = Release|Win32
+		{77409DE2-52FB-4511-B9C6-6E894C998439}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C1447F-E966-4470-A25F-1572DB8546C3}
+	EndGlobalSection
+EndGlobal
