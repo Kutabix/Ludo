@@ -1,7 +1,5 @@
 # Ludo Game with SFML
 
-![Ludo Game](image_link)
-
 ## Description:
 
 Ludo Game with SFML is a simple project of the classic board game Ludo, implemented using the SFML library in C++. The game allows for 2-4 players to compete against each other on the same computer.
