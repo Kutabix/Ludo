@@ -19,8 +19,8 @@ To run the game, you need:
 3. Compile and run the project:
 
 ## Usage Instructions:
-1. Choose the number of players (2-4) and enter the players' names.
 
+1. Choose the number of players (2-4) and enter the players' names.
 2. Play according to the rules of Ludo!
 
 ## Features:
